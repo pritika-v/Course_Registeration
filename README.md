@@ -18,7 +18,16 @@
 
 ## 📂 Folder Structure
 
-project-root/ │ ├── index.html ├── style.css ├── App.js │ ├── components/ │ ├── Login.js │ ├── Home.js │ ├── Compulsory.js │ ├── Interdisciplinary.js │ └── Submitted.js
+project-root/ │ 
+   ├── index.html 
+   ├── style.css 
+   ├── App.js │ 
+   ├── components/ │ 
+      ├── Login.js │ 
+      ├── Home.js │ 
+      ├── Compulsory.js │ 
+      ├── Interdisciplinary.js │ 
+      └── Submitted.js
 
 
 ---
@@ -29,13 +38,3 @@ project-root/ │ ├── index.html ├── style.css ├── App.js │ 
 - Babel (in-browser transformer)
 - HTML + CSS (Vanilla)
 - No frameworks or build tools!
-
----
-
-## ⚙️ How to Run Locally
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/course-registration-react.git
-   cd course-registration-react
