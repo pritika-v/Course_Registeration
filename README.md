@@ -1,6 +1,6 @@
 # 🎓 Course Registration System
 
-> A fully functional course registration portal built using **Vanilla React (with Babel)**. Supports login, course selection based on degree, seat limits, and dynamic navigation across different pages.
+> A fully functional course registration portal built using **React (with Babel)**. Supports login, course selection based on degree, seat limits, and dynamic navigation across different pages.
 
 ---
 
@@ -13,24 +13,9 @@
 - 🔄 Interdisciplinary Electives from all branches
 - 🎯 Course seat limits (30 per course)
 - 🔄 Smooth page transitions (no reloads)
-- 📱 Responsive UI (vanilla CSS)
+- 📱 Responsive UI (CSS)
 - ⚛️ Pure React without create-react-app – powered by Babel
 
-## 📂 Folder Structure
-
-project-root/ │ 
-   ├── index.html 
-   ├── style.css 
-   ├── App.js │ 
-   ├── components/ │ 
-      ├── Login.js │ 
-      ├── Home.js │ 
-      ├── Compulsory.js │ 
-      ├── Interdisciplinary.js │ 
-      └── Submitted.js
-
-
----
 
 ## 🛠️ Technologies Used
 
