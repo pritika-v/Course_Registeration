@@ -16,15 +16,26 @@
 - 📱 Responsive UI (vanilla CSS)
 - ⚛️ Pure React without create-react-app – powered by Babel
 
----
-
-## 🖼️ Screenshots
-
-| Login | Home | Compulsory | Interdisciplinary |
-|------|------|------------|--------------------|
-| ![Login](assets/login.png) | ![Home](assets/home.png) | ![Compulsory](assets/compulsory.png) | ![Interdisciplinary](assets/inter.png) |
-
----
-
 ## 📂 Folder Structure
 
+project-root/ │ ├── index.html ├── style.css ├── App.js │ ├── components/ │ ├── Login.js │ ├── Home.js │ ├── Compulsory.js │ ├── Interdisciplinary.js │ └── Submitted.js
+
+
+---
+
+## 🛠️ Technologies Used
+
+- React (via CDN)
+- Babel (in-browser transformer)
+- HTML + CSS (Vanilla)
+- No frameworks or build tools!
+
+---
+
+## ⚙️ How to Run Locally
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/course-registration-react.git
+   cd course-registration-react
